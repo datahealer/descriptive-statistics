@@ -4,10 +4,6 @@ from data import data
 # This line imports the statistics module for your convenience. You don't need to modify this.
 import statistics as st
 
-
-
-
-
 list_mean = st.mean(data)
 list_mode = st.mode(data)
 list_median = st.median(data)
